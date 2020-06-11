@@ -1,0 +1,17 @@
+*.sqlite
+*.rkt~
+*.p~
+*.pm~
+*.swp
+*.html
+*.css
+!fonts/fonts.css
+*.ltx
+*.pdf
+*.out
+*.aux
+*.log
+*.xml
+*.toc
+compiled/
+.DS_Store
